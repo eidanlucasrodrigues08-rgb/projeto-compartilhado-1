@@ -1,2 +1,2 @@
-eidan escolhendo mario
-eidan jogando mario
+eidan escolhendo repositorio
+eidan analisando git e github
